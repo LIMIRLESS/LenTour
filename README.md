@@ -1,2 +1,2 @@
-# -
-聆途是一套面向无障碍与复杂场景独立出行的鸿蒙原生多模态智慧助行系统
+# LenTour
+LenTour is a HarmonyOS-native multimodal intelligent mobility assistance system designed for independent travel across barrier-free and complex scenarios. Its supporting hardware devices, including smart guide canes and smart glasses, are built on OpenHarmony technology.
